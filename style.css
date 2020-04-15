@@ -76,6 +76,12 @@ button {
   box-shadow: 2px 2px 5px #238293;
 }
 
+button:hover {
+  background-color: white;
+  border: 1px hsl(71, 73%, 54%) solid;
+  color: hsl(71, 73%, 54%);
+}
+
 .whyus {
   padding: 1.5em;
   background-color: #70d0cf;
